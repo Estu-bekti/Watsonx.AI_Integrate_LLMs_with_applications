@@ -18,8 +18,8 @@ This repository provides resources and examples to integrate Large Language Mode
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/llm-integration.git
-   cd llm-integration
+   git clone [https://github.com/your-repo/llm-integration.git](https://github.com/Estu-bekti/Watsonx.AI_Integrate_LLMs_with_applications.git)
+   cd Watsonx.AI_Integrate_LLMs_with_applications
    ```
 2. Install dependencies:
    ```bash
